@@ -26,9 +26,10 @@ make a blog or vlog.
 ## Project Idea
 
 - Siraj's Pick is [Preventing the Spread of Dengue Fever](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/). 
-Your task is to predict the number of dengue cases each week (in each location) based on environmental variables describing changes
+The task is to predict the number of dengue cases each week (in each location) based on environmental variables describing changes
 in temperature, precipitation, vegetation, and more. An understanding of the relationship between climate and dengue dynamics can improve research 
-initiatives and resource allocation to help fight life-threatening pandemics.
+initiatives and resource allocation to help fight life-threatening pandemics. You can literally save lives with machine learning.
+
 - There are many other projects out there though. Pick an industry that excites you, find a problem they have, locale a relevant dataset, apply AI to that dataset, and monetize the solution.  
 
 
