@@ -38,4 +38,4 @@ initiatives and resource allocation to help fight life-threatening pandemics.
 it via Twitter [@sirajraval](https://twitter.com/sirajraval)
 - By the end of 100 days, you'll be expected to have a project you've contributed to, whether your own or another. The more impact
 you've had, the more likely you'll get a shoutout. Impact comes in the form of good documentation of your journey so that others can follow,
-a project that improves the lives of other people, and real progress in your own ability to code machine learning.
+a project that improves the lives of other people, or real progress in your own ability to code machine learning.
