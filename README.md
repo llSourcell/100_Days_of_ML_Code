@@ -1,11 +1,12 @@
-# 100_Days_of_ML_Code-
+# 100_Days_of_ML_Code
+
 These are the instructions for "100 Days of ML Code" By Siraj Raval on Youtube
 
 # With Great Power Comes Great Responsibility 
 
 ## Overview
 
-These are the instructions for this video on Youtube by Siraj Raval for the #100DaysofMLCode Challenge. 
+These are the instructions for [this]() video on Youtube by Siraj Raval for the #100DaysofMLCode Challenge. 
 
 ## Motivation
 
@@ -21,8 +22,8 @@ this powerful tool by dedicating at least 1 hour of your time everyday to studyi
 
 ## The 3 Rules
 
-- Make a public pledge to code or study machine learning for minimum 1 hour every day for the next 100 days via your favorite social platform using the #100DaysofMLCode Hashtag.
-- Make a public log of your work. Update it daily. Here is a GitHub example [template](https://gist.github.com/llSourcell/43194e486a92532bc343f7837b178eda). You can also
+- Make a public pledge to code or study machine learning for minimum 1 hour every day for the next 100 days via your favorite social platform using the [#100DaysofMLCode](https://twitter.com/sirajraval/status/1014758160572141568) Hashtag.
+- Make a public log of your work. Update it daily. Here is a GitHub example [template](https://gist.github.com/llSourcell/43194e486a92532bc343f7837b178eda). Another one is [here](https://github.com/LordSomen/100DaysOfML/blob/master/Log.md). You can also
 make a blog or vlog. 
 - If you see someone make a post using the #100DaysofMLCode hashtag, encourage them via a 'like', 'share', or comment!
 
@@ -38,7 +39,7 @@ initiatives and resource allocation to help fight life-threatening pandemics.
 ## Prizes
 
 - Siraj Raval will give a shoutout to some of the Wizards who succesfully complete the challenge, notify him if you've completed
-it via Twitter @sirajraval
+it via Twitter [@sirajraval](https://twitter.com/sirajraval)
 - By the end of 100 days, you'll be expected to have a project you've contributed to, whether your own or another. The more impact
 you've had, the more likely you'll get a shoutout. Impact comes in the form of good documentation of your journey so that others can follow,
 a project that improves the lives of other people, and real progress in your own ability to code machine learning.
