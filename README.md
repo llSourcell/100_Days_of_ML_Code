@@ -38,7 +38,7 @@ initiatives and resource allocation to help fight life-threatening pandemics. Yo
 - [Tensorflow Documentation](https://www.tensorflow.org/tutorials/)
 - [A bunch of online courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md)
 
-## Prizes
+## Awards
 
 - Siraj Raval will give a shoutout to some of the Wizards who succesfully complete the challenge, notify him if you've completed
 it via Twitter [@sirajraval](https://twitter.com/sirajraval)
