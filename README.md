@@ -2,8 +2,6 @@
 
 These are the instructions for "100 Days of ML Code" By Siraj Raval on Youtube
 
-# With Great Power Comes Great Responsibility 
-
 ## Overview
 
 These are the instructions for [this]() video on Youtube by Siraj Raval for the #100DaysofMLCode Challenge. 
