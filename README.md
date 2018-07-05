@@ -25,7 +25,7 @@ make a blog or vlog.
 
 ## Project Idea
 
-- Siraj's Pick is [Preventing the Spread of Dengue Fever](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/). 
+- Siraj's pick is [Preventing the Spread of Dengue Fever](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/). 
 The task is to predict the number of dengue cases each week (in each location) based on environmental variables describing changes
 in temperature, precipitation, vegetation, and more. An understanding of the relationship between climate and dengue dynamics can improve research 
 initiatives and resource allocation to help fight life-threatening pandemics. You can literally save lives with machine learning.
