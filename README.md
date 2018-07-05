@@ -1,6 +1,4 @@
-# #100DaysOfMLCode
-
-These are the instructions for "100 Days of ML Code" By Siraj Raval on Youtube
+# 100DaysOfMLCode
 
 ## Overview
 
