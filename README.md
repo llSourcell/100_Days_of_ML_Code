@@ -1,3 +1,5 @@
+[Log](https://github.com/fernand0aguilar/100_Days_of_ML_Code/wiki/Log)
+
 # 100DaysOfMLCode
 
 ## Overview
