@@ -12,3 +12,14 @@ July 9, 2018
   **Link to work:** [Coding Train 6.2 TensorFlow.js](https://www.youtube.com/watch?v=D-XzAeVvMkg)
 
 ***
+### Day 1:
+09-07-2018 , 23:37 
+
+**Today's Progress:** Watched the module 10 - Introduction to Data and APIs
+
+**Thoughts:** I am starting slowly first, focusing on learning more about data is a good way to start because a good dataset will be the main beginning to having a good model for training the algorithm later.
+
+**Link to work:** [10.8 Wordnik API and Javascript](https://www.youtube.com/watch?v=YsgdUaOrFnQ&index=8&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+
+
+***
