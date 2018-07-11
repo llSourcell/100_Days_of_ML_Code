@@ -23,3 +23,14 @@ July 9, 2018
 
 
 ***
+### Day 2:
+10-07-2018 , 21:35 
+
+**Today's Progress:** Learning more about tensors - Intelligence and learning
+
+**Thoughts:** Lazy day. Slept nothing last night and thus today was a day for me to get better and slow down. I found the Asteroids video for making a bot and I am excited to keep doing this challenge for the next week. I want to learn more about tensorflow.js, finish de api giphy project and also keep going in the tutorials and projects.
+
+**Link to work:** [machine-learning-world](https://medium.com/machine-learning-world)
+
+
+***
