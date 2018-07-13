@@ -45,3 +45,14 @@ July 9, 2018
 
 
 ***
+### Day 4:
+12-07-2018 , 22:57 
+
+**Today's Progress:** Learned more about data structures
+
+**Thoughts:** Watched some videos about binary trees, particle systems and also got to build the fireworks system uppon the physics engine that I had already made. Although this might not be directly related to ML it feels like a very nice grounding for getting deeper into ML concepts further on.
+
+**Link to work:** [Session 1 - Algorithms and Graphs - Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bePNiZLnglXUp2LXIjlCdb)
+
+
+***
