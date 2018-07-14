@@ -56,3 +56,14 @@ July 9, 2018
 
 
 ***
+### Day 5:
+13-07-2018 , 22:08 
+
+**Today's Progress:** Learning More About A* Pathfinding Algorithm
+
+**Thoughts:** It's going solid so far. Learning about algorithms is the first part of how I'm planning to work with data. I will start implementing these thing into code and then progress trough the whole data thing.
+
+**Link to work:** [AStar example with community contributions](https://github.com/CodingTrain/AStar)
+
+
+***
