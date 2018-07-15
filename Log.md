@@ -78,3 +78,14 @@ July 9, 2018
 
 
 ***
+### Day 7:
+15-07-2018 , 18:00 
+
+**Today's Progress:** Learning more about depth-first search algorithm
+
+**Thoughts:** Didn't wanted to code at all but at least implemented the blobs project and then studied more about the philosophy of life and how we can figure out a way to search for the future of humanity.
+
+**Link to work:** [Commits on Jul 15, 2018](https://github.com/fernand0aguilar/p5-projects/commits?author=fernand0aguilar&since=2018-07-15T03:00:00Z&until=2018-07-16T03:00:00Z)
+
+
+***
