@@ -67,3 +67,14 @@ July 9, 2018
 
 
 ***
+### Day 6:
+14-07-2018 , 22:51 
+
+**Today's Progress:** Learning More About Genetic Algorithms
+
+**Thoughts:** I was focused on coding for the p5-projects repo the whole day sdidn't learned much stuff directly related to Machine Learning. What I actually got to do was learn more about mathematics and trigonometry after implementing the oscillation chapter on NOC. I also watched a video about evolutionary algorithms which was very dense and explanatory. Feeling happy for today
+
+**Link to work:** [How to Make an Evolutionary Tetris AI](https://www.youtube.com/watch?v=xLHCMMGuN0Q)
+
+
+***
