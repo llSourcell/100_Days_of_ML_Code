@@ -89,3 +89,14 @@ July 9, 2018
 
 
 ***
+### Day 8:
+16-07-2018 , 22:42 
+
+**Today's Progress:** Finished Algorithms Section & Started Genetic Algorithms
+
+**Thoughts:** Solid day. Coded for more than 3 hours and made some good progress along with my focus and coding skills. Today is the start of second week and I'm happy to be focused and coding, increasing the skills and discovering what I can or cannot do with them.
+
+**Link to work:** [Session 2 - Genetic Algorithms - Intelligence and Learning](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw4n02JP28QDuUdNi3EXxJ)
+
+
+***
