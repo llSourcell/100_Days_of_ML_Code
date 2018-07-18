@@ -111,3 +111,14 @@ July 9, 2018
 
 
 ***
+### Day 10:
+18-07-2018 , 19:48 
+
+**Today's Progress:** Starting to read Luan's Tcc
+
+**Thoughts:** Luan was a roomate when I was at FGA. He wrote a very good article about Machine Learning, Clusterization, the impact of algorithms on thlitics and democracy and how to use a smart approach on social discussions. I am beggining to read his 80-pg long final project and learn more about the in depth details of the problem and its sulution.
+
+**Link to work:** [Trabalho de Conclusão de Curso](https://github.com/luanguimaraesla/tcc)
+
+
+***
