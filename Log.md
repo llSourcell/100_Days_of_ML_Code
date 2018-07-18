@@ -100,3 +100,14 @@ July 9, 2018
 
 
 ***
+### Day 9:
+17-07-2018 , 23:42 
+
+**Today's Progress:** Learning more about cellular automata
+
+**Thoughts:** I is being easier to code in the midnight and i don't think this is very optimized at a long term perspective. Altho, I am being really more productive here and it's time for me to act and create a and this is what I'm currently doing. I am afraid to burn out with the coding train videos and not have a place to go for more knowledge. But these are maybe just silly concerns because he is a great mentor with lots of valuable wise videos.
+
+**Link to work:** [7.1: Cellular Automata - The Nature of Code](https://www.youtube.com/watch?v=DKGodqDs9sA&list=PLRqwX-V7Uu6YrWXvEQFOGbCt6cX83Xunm)
+
+
+***
