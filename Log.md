@@ -122,3 +122,14 @@ July 9, 2018
 
 
 ***
+### Day 11:
+19-07-2018 , 22:32 
+
+**Today's Progress:** Reading Luan's Tcc and Learning more about Fractals
+
+**Thoughts:** Today was a good day because I programmed even if I didn't want to. It was nice to read luan's tcc and discover more about machine learning in portuguese. His perspective is a complex one but has some value, especially when we described the avarage descendent and ways to calculate data.
+
+**Link to work:** [ Commits on Jul 19, 2018](https://github.com/fernand0aguilar/p5-projects/commits?author=fernand0aguilar&since=2018-07-19T03:00:00Z&until=2018-07-20T03:00:00Z)
+
+
+***
