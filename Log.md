@@ -133,3 +133,14 @@ July 9, 2018
 
 
 ***
+### Day 12:
+20-07-2018 , 23:39 
+
+**Today's Progress:** Studying more of genetic algorithms and ML5 first glance
+
+**Thoughts:** Today was a day focused on not getting influenced by the negativity. It was a nice day regarding all the trials that were in my path. I watched Dan Shiffman's live on what it is the ml5 library and how to use it for an easy on-the-browser formulation of machine learning tasks and applications
+
+**Link to work:** [Friendly Machine Learning for the Web.](https://ml5js.org/)
+
+
+***
