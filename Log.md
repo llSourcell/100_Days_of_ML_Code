@@ -144,3 +144,14 @@ July 9, 2018
 
 
 ***
+### Day 13:
+21-07-2018 , 23:43 
+
+**Today's Progress:** Learned a lot about Evolutionary Algorithms
+
+**Thoughts:** Today was a solid day with something like 3 hours of code. I got to learn more about genetic algorithms and copy the code for smart rockets while also learning more about the inner works of the genetic monkey project.
+
+**Link to work:** [9.8: Genetic Algorithm: Improved Pool Selection](https://www.youtube.com/watch?v=ETphJASzYes&list=PLRqwX-V7Uu6bw4n02JP28QDuUdNi3EXxJ&index=9)
+
+
+***
