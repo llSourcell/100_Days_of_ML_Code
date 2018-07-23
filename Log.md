@@ -155,3 +155,14 @@ July 9, 2018
 
 
 ***
+### Day 14:
+22-07-2018 , 23:39 
+
+**Today's Progress:** Reading Luan's paper and coding visual graphics
+
+**Thoughts:** Today was a day where I could implement another project using evolutionary (genetic) algorithms and also, I focused on learning more about machine learning by itself. I realized that the goal of machine learning is to optimize something, and that we can do it in many ways. I watched this video about k-means clustering and learned a lot from it.
+
+**Link to work:** [K-Means Clustering - The Math of Intelligence](https://www.youtube.com/watch?v=9991JlKnFmk)
+
+
+***
