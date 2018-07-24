@@ -166,3 +166,14 @@ July 9, 2018
 
 
 ***
+### Day 15:
+23-07-2018 , 23:38 
+
+**Today's Progress:** learning more about the game
+
+**Thoughts:** the game
+
+**Link to work:** [i lost the game](https://en.wikipedia.org/wiki/The_Game_(mind_game))
+
+
+***
