@@ -177,3 +177,14 @@ July 9, 2018
 
 
 ***
+### Day 16:
+24-07-2018 , 23:32 
+
+**Today's Progress:** Finished Session 02 and started Session 3 - introduction to machine learning
+
+**Thoughts:** I was very happy when implementing a particle by myself. This feeling of being able to do something that I wasn't before is very satisfying even if it's a simple thing. Today I want to look at the nearest neighbors reccomendation engine and learn more about the k-nearest neighbors algorithm.
+
+**Link to work:** [3.1: Introduction to Session 3 - What is Machine Learning?](https://www.youtube.com/watch?v=LvIa0-ZKCrc&list=PLRqwX-V7Uu6bCN8LKrcMa6zF4FPtXyXYj&index=1)
+
+
+***
