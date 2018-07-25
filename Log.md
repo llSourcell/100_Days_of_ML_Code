@@ -188,3 +188,14 @@ July 9, 2018
 
 
 ***
+### Day 17:
+25-07-2018 , 20:41 
+
+**Today's Progress:** Making StarWars Recommendation System
+
+**Thoughts:** Today I started messing around with ml algorithms and learned more about weighted avarage, k nearest neighbors and also builted a movie recommendation system using javascript p5
+
+**Link to work:** [Star Wars Recommendation System](https://github.com/fernand0aguilar/p5-projects/tree/c92c801530f397988a1cbdd9c25b10a2ee69be03/IntelligenceAndLearning/session3/movie_recommender)
+
+
+***
