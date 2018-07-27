@@ -199,3 +199,14 @@ July 9, 2018
 
 
 ***
+### Day 18:
+26-07-2018 , 21:42 
+
+**Today's Progress:** Coding Linear Regression with least squares
+
+**Thoughts:** Today I did the Interview for theam and I feel very happy for it. I learned more about linear regression using the least squares and I am looking forwards for learning about gradient descent.
+
+**Link to work:** [3.3: Linear Regression with Ordinary Least Squares Part 2 ](https://www.youtube.com/watch?v=_cXuvTQl090&index=6&list=PLRqwX-V7Uu6bCN8LKrcMa6zF4FPtXyXYj)
+
+
+***
