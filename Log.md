@@ -221,3 +221,14 @@ July 9, 2018
 
 
 ***
+### Day 20:
+28-07-2018 , 17:42 
+
+**Today's Progress:** Studying about calculus.
+
+**Thoughts:** Starting session 04 of the Series Intelligence and learning. This sessions Dan's talking about neural networks. What are those and how to implement them on p5js.
+
+**Link to work:** [Introduction to Neural Networks - The Nature of Code](https://www.youtube.com/watch?v=XJ7HLz9VYz0&list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb&index=1)
+
+
+***
