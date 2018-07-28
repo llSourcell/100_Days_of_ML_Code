@@ -210,3 +210,14 @@ July 9, 2018
 
 
 ***
+### Day 19:
+27-07-2018 , 22:33 
+
+**Today's Progress:** Gradient Descendent and Calculus
+
+**Thoughts:** Learned more about how is halculus involved in gradient descent. Rememebered a lot of stuff related to derivatives and integrals. I realized that calculus was involved in machine learning all the time, and also related to what i've been coding as visual graphics. Right now I'm seeing a near breaktrough in what I've been doing as subject of habits.
+
+**Link to work:** [Calculus: Power Rule - Intelligence and Learning](https://www.youtube.com/watch?v=IKb_3FJtA1U&index=9&list=PLRqwX-V7Uu6bCN8LKrcMa6zF4FPtXyXYj)
+
+
+***
