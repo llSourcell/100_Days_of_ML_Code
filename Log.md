@@ -243,3 +243,14 @@ July 9, 2018
 
 
 ***
+### Day 22:
+30-07-2018 , 19:04 
+
+**Today's Progress:** Studying the math behind matrixes
+
+**Thoughts:** Today I got a solid coding day with 3 projects but only one of them involving direct machine learning. I copied the code for firing neurons at the nature of code book repository and also learned more about the math part of neural networks. With the inner linear algebra matrix sum and multiplication.
+
+**Link to work:** [10.9: Neural Networks: Matrix Math Part 3 - The Nature of Code](https://www.youtube.com/watch?v=NgZAIkDcPkI&index=9&list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
+
+
+***
