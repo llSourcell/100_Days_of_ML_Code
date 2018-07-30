@@ -232,3 +232,14 @@ July 9, 2018
 
 
 ***
+### Day 21:
+29-07-2018 , 23:40 
+
+**Today's Progress:** Starting To Learn Neural Networks
+
+**Thoughts:** Today I come up to see what it really means neural network. I started by implementing an algorithm for doing linear regression using a single perceptron(neuron) model and understood what the hidden layer is. I watched a few videos on the meaning of deep learning and I am happy to be making progress. Overall today was great and I am very happy on the 21th day of this challenge. 79 more to go. Wishing me consistency, and valuable forces.
+
+**Link to work:** [Commits on Jul 29, 2018](https://github.com/fernand0aguilar/p5-projects/commits?author=fernand0aguilar&since=2018-07-29T03:00:00Z&until=2018-07-30T03:00:00Z)
+
+
+***
