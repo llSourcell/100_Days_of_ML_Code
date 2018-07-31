@@ -254,3 +254,14 @@ July 9, 2018
 
 
 ***
+### Day 23:
+31-07-2018 , 20:04 
+
+**Today's Progress:** FeedForward and Backpropagation
+
+**Thoughts:** Diving deep in those two algorithms and their math workings. It is a little bit complex to get first but after a while it's starting to click for me. These are core algorithms for neural networks and I'm learning more about gradient descent also.
+
+**Link to work:** [10.14: Neural Networks: Backpropagation Part 1 - The Nature of Code](https://www.youtube.com/watch?v=QJoa0JYaX1I&index=15&t=0s&list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
+
+
+***
