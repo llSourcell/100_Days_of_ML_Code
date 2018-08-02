@@ -265,3 +265,14 @@ July 9, 2018
 
 
 ***
+### Day 24:
+01-08-2018 , 22:11 
+
+**Today's Progress:** Coding the xor problem using a toy neural network js library
+
+**Thoughts:** TOday I think that I learned about neural networks more. THe in depth concepts about backpropagation and also feed forwards. THe math is still a little bit confusing but it's good that I have an engineering background because it's not my first contact with it.
+
+**Link to work:** [toy_neural_network github](https://github.com/fernand0aguilar/p5-projects/tree/master/IntelligenceAndLearning/session4/toy_neural_network)
+
+
+***
