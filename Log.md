@@ -276,3 +276,14 @@ July 9, 2018
 
 
 ***
+### Day 25:
+02-08-2018 , 23:03 
+
+**Today's Progress:** Diving into the session 5 - Doodle Classifier
+
+**Thoughts:** Today I created another repository for making ai and ml dedicated pushs. Started by cleaning and preping the data for the quickdraw doodle classifier as well as some studying and researching related to people making cool projects using ml.
+
+**Link to work:** [Mind The Gap](https://github.com/fernand0aguilar/mind-the-gap)
+
+
+***
