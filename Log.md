@@ -287,3 +287,14 @@ July 9, 2018
 
 
 ***
+### Day 26:
+03-08-2018 , 23:52 
+
+**Today's Progress:** Studying about neural networks, ml5 and other stuff
+
+**Thoughts:** Coding the whole day. Watching videos on the coding train challenge, making doodle classifier and other stuff
+
+**Link to work:** [5.5: Doodle Classifier: Testing - Intelligence and Learning](https://www.youtube.com/watch?v=_IyfxsQ5FX0)
+
+
+***
