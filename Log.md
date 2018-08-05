@@ -298,3 +298,14 @@ July 9, 2018
 
 
 ***
+### Day 27:
+04-08-2018 , 21:32 
+
+**Today's Progress:** Introduction to neuroevolution
+
+**Thoughts:** NEAT - Neuroevolution of augmenting finishing the doodle classifier and implementing the start for the version of the game flappy bird and see if we can use the neural network to evolve the game.
+
+**Link to work:** [Neuroevolution of augmenting topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
+
+
+***
