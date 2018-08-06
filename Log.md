@@ -46,7 +46,7 @@ July 9, 2018
 
 ***
 ### Day 4:
-12-07-2018 , 22:57 
+12-07-2018 , 22:57
 
 **Today's Progress:** Learned more about data structures
 
@@ -57,7 +57,7 @@ July 9, 2018
 
 ***
 ### Day 5:
-13-07-2018 , 22:08 
+13-07-2018 , 22:08
 
 **Today's Progress:** Learning More About A* Pathfinding Algorithm
 
@@ -68,7 +68,7 @@ July 9, 2018
 
 ***
 ### Day 6:
-14-07-2018 , 22:51 
+14-07-2018 , 22:51
 
 **Today's Progress:** Learning More About Genetic Algorithms
 
@@ -79,7 +79,7 @@ July 9, 2018
 
 ***
 ### Day 7:
-15-07-2018 , 18:00 
+15-07-2018 , 18:00
 
 **Today's Progress:** Learning more about depth-first search algorithm
 
@@ -90,7 +90,7 @@ July 9, 2018
 
 ***
 ### Day 8:
-16-07-2018 , 22:42 
+16-07-2018 , 22:42
 
 **Today's Progress:** Finished Algorithms Section & Started Genetic Algorithms
 
@@ -101,7 +101,7 @@ July 9, 2018
 
 ***
 ### Day 9:
-17-07-2018 , 23:42 
+17-07-2018 , 23:42
 
 **Today's Progress:** Learning more about cellular automata
 
@@ -112,7 +112,7 @@ July 9, 2018
 
 ***
 ### Day 10:
-18-07-2018 , 19:48 
+18-07-2018 , 19:48
 
 **Today's Progress:** Starting to read Luan's Tcc
 
@@ -123,7 +123,7 @@ July 9, 2018
 
 ***
 ### Day 11:
-19-07-2018 , 22:32 
+19-07-2018 , 22:32
 
 **Today's Progress:** Reading Luan's Tcc and Learning more about Fractals
 
@@ -134,7 +134,7 @@ July 9, 2018
 
 ***
 ### Day 12:
-20-07-2018 , 23:39 
+20-07-2018 , 23:39
 
 **Today's Progress:** Studying more of genetic algorithms and ML5 first glance
 
@@ -145,7 +145,7 @@ July 9, 2018
 
 ***
 ### Day 13:
-21-07-2018 , 23:43 
+21-07-2018 , 23:43
 
 **Today's Progress:** Learned a lot about Evolutionary Algorithms
 
@@ -156,7 +156,7 @@ July 9, 2018
 
 ***
 ### Day 14:
-22-07-2018 , 23:39 
+22-07-2018 , 23:39
 
 **Today's Progress:** Reading Luan's paper and coding visual graphics
 
@@ -167,7 +167,7 @@ July 9, 2018
 
 ***
 ### Day 15:
-23-07-2018 , 23:38 
+23-07-2018 , 23:38
 
 **Today's Progress:** learning more about the game
 
@@ -178,7 +178,7 @@ July 9, 2018
 
 ***
 ### Day 16:
-24-07-2018 , 23:32 
+24-07-2018 , 23:32
 
 **Today's Progress:** Finished Session 02 and started Session 3 - introduction to machine learning
 
@@ -189,7 +189,7 @@ July 9, 2018
 
 ***
 ### Day 17:
-25-07-2018 , 20:41 
+25-07-2018 , 20:41
 
 **Today's Progress:** Making StarWars Recommendation System
 
@@ -200,7 +200,7 @@ July 9, 2018
 
 ***
 ### Day 18:
-26-07-2018 , 21:42 
+26-07-2018 , 21:42
 
 **Today's Progress:** Coding Linear Regression with least squares
 
@@ -211,7 +211,7 @@ July 9, 2018
 
 ***
 ### Day 19:
-27-07-2018 , 22:33 
+27-07-2018 , 22:33
 
 **Today's Progress:** Gradient Descendent and Calculus
 
@@ -222,7 +222,7 @@ July 9, 2018
 
 ***
 ### Day 20:
-28-07-2018 , 17:42 
+28-07-2018 , 17:42
 
 **Today's Progress:** Studying about calculus.
 
@@ -233,7 +233,7 @@ July 9, 2018
 
 ***
 ### Day 21:
-29-07-2018 , 23:40 
+29-07-2018 , 23:40
 
 **Today's Progress:** Starting To Learn Neural Networks
 
@@ -244,7 +244,7 @@ July 9, 2018
 
 ***
 ### Day 22:
-30-07-2018 , 19:04 
+30-07-2018 , 19:04
 
 **Today's Progress:** Studying the math behind matrixes
 
@@ -255,7 +255,7 @@ July 9, 2018
 
 ***
 ### Day 23:
-31-07-2018 , 20:04 
+31-07-2018 , 20:04
 
 **Today's Progress:** FeedForward and Backpropagation
 
@@ -266,7 +266,7 @@ July 9, 2018
 
 ***
 ### Day 24:
-01-08-2018 , 22:11 
+01-08-2018 , 22:11
 
 **Today's Progress:** Coding the xor problem using a toy neural network js library
 
@@ -277,7 +277,7 @@ July 9, 2018
 
 ***
 ### Day 25:
-02-08-2018 , 23:03 
+02-08-2018 , 23:03
 
 **Today's Progress:** Diving into the session 5 - Doodle Classifier
 
@@ -288,7 +288,7 @@ July 9, 2018
 
 ***
 ### Day 26:
-03-08-2018 , 23:52 
+03-08-2018 , 23:52
 
 **Today's Progress:** Studying about neural networks, ml5 and other stuff
 
@@ -299,13 +299,24 @@ July 9, 2018
 
 ***
 ### Day 27:
-04-08-2018 , 21:32 
+04-08-2018 , 21:32
 
 **Today's Progress:** Introduction to neuroevolution
 
 **Thoughts:** NEAT - Neuroevolution of augmenting finishing the doodle classifier and implementing the start for the version of the game flappy bird and see if we can use the neural network to evolve the game.
 
 **Link to work:** [Neuroevolution of augmenting topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
+
+
+***
+### Day 28:
+05-08-2018 , 23:30
+
+**Today's Progress:** Coding the neuroevolution flappy bird
+
+**Thoughts:** Watching the video series / reading luan's paper / studying about mathematical formulas
+
+**Link to work:** [Coding Challenge #100.3: Neuroevolution Flappy Bird - Part 3](https://www.youtube.com/watch?v=3lvj9jvERvs&list=PLRqwX-V7Uu6Yd3975YwxrR0x40XGJ_KGO&index=5)
 
 
 ***
