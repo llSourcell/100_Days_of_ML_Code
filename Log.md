@@ -320,3 +320,14 @@ July 9, 2018
 
 
 ***
+### Day 29:
+06-08-2018 , 22:22 
+
+**Today's Progress:** Learning more about tensorflowJS
+
+**Thoughts:** today I created the hypercube repo and watched introduction to tensorflow.js
+
+**Link to work:** [6.1: Introduction to TensorFlow.js - Intelligence and Learning](https://www.youtube.com/watch?v=Qt3ZABW5lD0&list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
+
+
+***
