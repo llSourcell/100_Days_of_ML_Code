@@ -342,3 +342,14 @@ July 9, 2018
 
 
 ***
+### Day 31:
+08-08-2018 , 19:44 
+
+**Today's Progress:** Starting to learn about tensors
+
+**Thoughts:** Tensorflow seems very powerful but it's actually a completely new language itself. I need to start getting used to understand it in order to be able to develop my own models one day. Today I read the neuralnetwork file on xor and also watched 2 videos on tensorflow in the coding train.
+
+**Link to work:** [Develop ML with JavaScript](https://js.tensorflow.org/)
+
+
+***
