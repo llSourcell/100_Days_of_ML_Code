@@ -331,3 +331,14 @@ July 9, 2018
 
 
 ***
+### Day 30:
+07-08-2018 , 22:15 
+
+**Today's Progress:** VEEEEEEEEEERY LAZY DAY
+
+**Thoughts:** After spending probably 10+ hours coding last week, this week started off slow. I don't really wanted to code today so I kept procrastitating it. I watched an hour of the session 6 on tensorflow though.
+
+**Link to work:** [no linkerino](-)
+
+
+***
