@@ -321,7 +321,7 @@ July 9, 2018
 
 ***
 ### Day 29:
-06-08-2018 , 22:22 
+06-08-2018 , 22:22
 
 **Today's Progress:** Learning more about tensorflowJS
 
@@ -332,7 +332,7 @@ July 9, 2018
 
 ***
 ### Day 30:
-07-08-2018 , 22:15 
+07-08-2018 , 22:15
 
 **Today's Progress:** VEEEEEEEEEERY LAZY DAY
 
@@ -343,13 +343,24 @@ July 9, 2018
 
 ***
 ### Day 31:
-08-08-2018 , 19:44 
+08-08-2018 , 19:44
 
 **Today's Progress:** Starting to learn about tensors
 
 **Thoughts:** Tensorflow seems very powerful but it's actually a completely new language itself. I need to start getting used to understand it in order to be able to develop my own models one day. Today I read the neuralnetwork file on xor and also watched 2 videos on tensorflow in the coding train.
 
 **Link to work:** [Develop ML with JavaScript](https://js.tensorflow.org/)
+
+
+***
+### Day 32:
+09-08-2018 , 19:56
+
+**Today's Progress:** Learned a lot about Tensorflow.js
+
+**Thoughts:** Today I started to build the habit of waking up early. I began the day by creating a javascript version of water ripples that basically took me the whole day. Overall I was able to get the hands moving with tensorflow with the project and this is a very intresting start because we can do a lot of powerful stuff. It's quite a bit challenging but it's worth. I am on the 31'th day and that is remaining as a builted habit. I am very happy, thank you.
+
+**Link to work:** [science sarrud human involves](https://github.com/fernand0aguilar/p5-projects/blob/656a107f2d43ac75b13bce731fb60e7503b96007/3.Projects/10.WaterRipples/sketch.js)
 
 
 ***
