@@ -364,3 +364,14 @@ July 9, 2018
 
 
 ***
+### Day 33:
+10-08-2018 , 20:21 
+
+**Today's Progress:** Write Code Everyday
+
+**Thoughts:** Today I woke up 4:30 again to code and it was a very solid day. I learned a lot not only about machine learning but coding in general. Created the fire effect on processing, learned more about ES6/8 promisses and async-await, learned more about Tensorflow.js and created the linear regression using gradient descent and Polinomial Regression using Adam model. I'm very happy for today.
+
+**Link to work:** [Linear & Polinomial Regression - Commits on 10.08](https://github.com/fernand0aguilar/mind-the-gap/commits?author=fernand0aguilar&since=2018-08-10T03:00:00Z&until=2018-08-11T03:00:00Z)
+
+
+***
