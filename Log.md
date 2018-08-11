@@ -375,3 +375,14 @@ July 9, 2018
 
 
 ***
+### Day 34:
+11-08-2018 , 18:59 
+
+**Today's Progress:** Learning more about tensorflow
+
+**Thoughts:** Today was a slow day But i achieved my goal to study at leaast 2 hours of machine learning. I watched dan's livestream and also learned different stuff relating to polinomial regression
+
+**Link to work:** [No Link](nolink)
+
+
+***
