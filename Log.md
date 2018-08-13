@@ -386,3 +386,14 @@ July 9, 2018
 
 
 ***
+### Day 35:
+12-08-2018 , 22:39 
+
+**Today's Progress:** Watching video on implementing xor with tensorflow.js
+
+**Thoughts:** Worked on a pull request to @pin0s, read a little bit about the tensorflow js documentation and watched the coding train livestream #141 where he implemented a version of the xor problem using tfjs library
+
+**Link to work:** [linkerino](https://no-linker.ino)
+
+
+***
