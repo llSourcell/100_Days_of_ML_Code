@@ -408,3 +408,14 @@ July 9, 2018
 
 
 ***
+### Day 37:
+14-08-2018 , 20:10 
+
+**Today's Progress:** Learning more about crowdsourcing data.
+
+**Thoughts:** Today was a very intresting day. I got a haircut and decided to also go until the end of the chalenge without punheta which will help me heal quicker and manifest faster. I learned that trying something different is better than stawying stuck. I want to get an early jump 4:30 am to take some time off for me. And i'm happy on how this is going. I could use another paycheck, wish me luck.
+
+**Link to work:** [​HOP ON THE CODING TRAIN!](​HOP ON THE CODING TRAIN!)
+
+
+***
