@@ -397,3 +397,14 @@ July 9, 2018
 
 
 ***
+### Day 36:
+13-08-2018 , 22:49 
+
+**Today's Progress:** Today I learned pretty much nothing about ml but it was productive still
+
+**Thoughts:** Started the development of fraguilar.com using gentsy and also made the deploy. Learned more about ai and etc
+
+**Link to work:** [fraguilar.com](fraguilar.com)
+
+
+***
