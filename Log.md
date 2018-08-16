@@ -430,3 +430,14 @@ July 9, 2018
 
 
 ***
+### Day 39:
+16-08-2018 , 20:22 
+
+**Today's Progress:** Coded nothing. And plus, broke my computer
+
+**Thoughts:** Yey, life is happy. I am happy. Thank you.
+
+**Link to work:** [about](fraguilar.com/about)
+
+
+***
