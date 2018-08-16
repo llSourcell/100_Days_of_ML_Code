@@ -419,3 +419,14 @@ July 9, 2018
 
 
 ***
+### Day 38:
+15-08-2018 , 23:02 
+
+**Today's Progress:** Learned more about mappa visualization
+
+**Thoughts:** Well, machine learning is sometimes not the only priority that I have. Today I built the skeleton for the fraguilar.com website which was something that i've been wanting to do for a long time. I'm happy with the result and I look forwards for populating it with stuff that I have made myself. Other than that I learned more about ml5 and also the mappa library.
+
+**Link to work:** [Fraguilar.com](fraguilar.com)
+
+
+***
