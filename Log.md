@@ -441,3 +441,14 @@ July 9, 2018
 
 
 ***
+### Day 40:
+17-08-2018 , 23:43 
+
+**Today's Progress:** Today I started the color classification problem
+
+**Thoughts:** I am using the firebase crowdsourced data and I'm looking forwards for visualizing this problem while also training a model to predict and classify new colors based on the training data.
+
+**Link to work:** [7.1: TensorFlow.js Color Classifier: Crowdsourcing Data](https://www.youtube.com/watch?v=y59-frfKR58&list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L)
+
+
+***
