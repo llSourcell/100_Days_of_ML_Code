@@ -452,3 +452,14 @@ July 9, 2018
 
 
 ***
+### Day 41:
+18-08-2018 , 23:59 
+
+**Today's Progress:** Learned more about tensorflowjs
+
+**Thoughts:** Used the coding train example on color classifier to update the data, filter, clean and analyze it. Looking forward for the training part.
+
+**Link to work:** [Mind the Gap](https://github.com/fernand0aguilar/mind-the-gap)
+
+
+***
