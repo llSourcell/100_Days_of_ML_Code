@@ -463,3 +463,14 @@ July 9, 2018
 
 
 ***
+### Day 42:
+19-08-2018 , 23:54 
+
+**Today's Progress:** Improving the fraguilar website, watching k interview, the coding train
+
+**Thoughts:** Today I worked on myself. Learning more, canceling out the noise, listening to myself and honoring my own needs. I am slowly stepping into the direction of all the things I want and need. I am grateful for what I got. If I get more it's a bonus, but I'm content. I'm choosing this ml lifestyle and this is a sign that the focus is helping me. This is radical action and every single day I am waking up and doing stuff. Making it happening. 
+
+**Link to work:** [Just, Do, It.](https://github.com/fernand0aguilar)
+
+
+***
