@@ -474,3 +474,14 @@ July 9, 2018
 
 
 ***
+### Day 43:
+20-08-2018 , 23:49 
+
+**Today's Progress:** procrastinated alot.
+
+**Thoughts:** Found the deep learning for coders 36 hours of classes for free and i'm happy to find sentdex channel as well.
+
+**Link to work:** [fast.ai course](http://course.fast.ai/)
+
+
+***
