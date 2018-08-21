@@ -485,3 +485,14 @@ July 9, 2018
 
 
 ***
+### Day 44:
+21-08-2018 , 04:12 
+
+**Today's Progress:** Did some improvements on the color classifier
+
+**Thoughts:** It's getting a little bit easier for me to learn technical concepts, yet i am struggling with the commitment to evolv as fast as I want to. Because machine learning is such a powerful tool, there is a lot to learn about it, but i am stuck in the same environment of the coding train / javascript. I wish i could find new ways to enjoy myself while making projects and also open new opportunities.
+
+**Link to work:** [none](no)
+
+
+***
