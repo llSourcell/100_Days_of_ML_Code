@@ -496,3 +496,14 @@ July 9, 2018
 
 
 ***
+### Day 45:
+22-08-2018 , 23:09 
+
+**Today's Progress:** Learning about ai and openai
+
+**Thoughts:** Learning about lstm, openai 5x5, Q, machine learning models and etc.
+
+**Link to work:** [LSTM using ml5](https://blog.paperspace.com/training-an-lstm-and-using-the-model-in-ml5-js/)
+
+
+***
