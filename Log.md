@@ -365,7 +365,7 @@ July 9, 2018
 
 ***
 ### Day 33:
-10-08-2018 , 20:21 
+10-08-2018 , 20:21
 
 **Today's Progress:** Write Code Everyday
 
@@ -376,7 +376,7 @@ July 9, 2018
 
 ***
 ### Day 34:
-11-08-2018 , 18:59 
+11-08-2018 , 18:59
 
 **Today's Progress:** Learning more about tensorflow
 
@@ -387,7 +387,7 @@ July 9, 2018
 
 ***
 ### Day 35:
-12-08-2018 , 22:39 
+12-08-2018 , 22:39
 
 **Today's Progress:** Watching video on implementing xor with tensorflow.js
 
@@ -398,7 +398,7 @@ July 9, 2018
 
 ***
 ### Day 36:
-13-08-2018 , 22:49 
+13-08-2018 , 22:49
 
 **Today's Progress:** Today I learned pretty much nothing about ml but it was productive still
 
@@ -409,7 +409,7 @@ July 9, 2018
 
 ***
 ### Day 37:
-14-08-2018 , 20:10 
+14-08-2018 , 20:10
 
 **Today's Progress:** Learning more about crowdsourcing data.
 
@@ -420,7 +420,7 @@ July 9, 2018
 
 ***
 ### Day 38:
-15-08-2018 , 23:02 
+15-08-2018 , 23:02
 
 **Today's Progress:** Learned more about mappa visualization
 
@@ -431,7 +431,7 @@ July 9, 2018
 
 ***
 ### Day 39:
-16-08-2018 , 20:22 
+16-08-2018 , 20:22
 
 **Today's Progress:** Coded nothing. And plus, broke my computer
 
@@ -442,7 +442,7 @@ July 9, 2018
 
 ***
 ### Day 40:
-17-08-2018 , 23:43 
+17-08-2018 , 23:43
 
 **Today's Progress:** Today I started the color classification problem
 
@@ -453,7 +453,7 @@ July 9, 2018
 
 ***
 ### Day 41:
-18-08-2018 , 23:59 
+18-08-2018 , 23:59
 
 **Today's Progress:** Learned more about tensorflowjs
 
@@ -464,18 +464,18 @@ July 9, 2018
 
 ***
 ### Day 42:
-19-08-2018 , 23:54 
+19-08-2018 , 23:54
 
 **Today's Progress:** Improving the fraguilar website, watching k interview, the coding train
 
-**Thoughts:** Today I worked on myself. Learning more, canceling out the noise, listening to myself and honoring my own needs. I am slowly stepping into the direction of all the things I want and need. I am grateful for what I got. If I get more it's a bonus, but I'm content. I'm choosing this ml lifestyle and this is a sign that the focus is helping me. This is radical action and every single day I am waking up and doing stuff. Making it happening. 
+**Thoughts:** Today I worked on myself. Learning more, canceling out the noise, listening to myself and honoring my own needs. I am slowly stepping into the direction of all the things I want and need. I am grateful for what I got. If I get more it's a bonus, but I'm content. I'm choosing this ml lifestyle and this is a sign that the focus is helping me. This is radical action and every single day I am waking up and doing stuff. Making it happening.
 
 **Link to work:** [Just, Do, It.](https://github.com/fernand0aguilar)
 
 
 ***
 ### Day 43:
-20-08-2018 , 23:49 
+20-08-2018 , 23:49
 
 **Today's Progress:** procrastinated alot.
 
@@ -486,7 +486,7 @@ July 9, 2018
 
 ***
 ### Day 44:
-21-08-2018 , 04:12 
+21-08-2018 , 04:12
 
 **Today's Progress:** Did some improvements on the color classifier
 
@@ -497,13 +497,24 @@ July 9, 2018
 
 ***
 ### Day 45:
-22-08-2018 , 23:09 
+22-08-2018 , 23:09
 
 **Today's Progress:** Learning about ai and openai
 
 **Thoughts:** Learning about lstm, openai 5x5, Q, machine learning models and etc.
 
 **Link to work:** [LSTM using ml5](https://blog.paperspace.com/training-an-lstm-and-using-the-model-in-ml5-js/)
+
+
+***
+### Day 46:
+23-08-2018 , 21:38
+
+**Today's Progress:** Making implementation of mnist in tfjs.
+
+**Thoughts:** Today I learned that Today is the most productive day of the week. And this is useful information. Studied around 3hrs and programmed a good amount of useful stuff. Watched 50% of the first introductory video of deep learning for coders and i am happy to be learning such a powerful concept.
+
+**Link to work:** [Fast ai Course](http://course.fast.ai/)
 
 
 ***
