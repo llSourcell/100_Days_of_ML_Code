@@ -518,3 +518,14 @@ July 9, 2018
 
 
 ***
+### Day 47:
+24-08-2018 , 21:24 
+
+**Today's Progress:** Making mnist example. learning about data cleansing
+
+**Thoughts:** Today I was able to make my first livestream on twitch and I have to say that it felt very exciting to be able to focus on explaining to others what is like to think trough code. And I also learned a lot about cleaning data.
+
+**Link to work:** [Twitch.tv/leryngs](twitch.tv/leryngs)
+
+
+***
