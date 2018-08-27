@@ -540,3 +540,14 @@ July 9, 2018
 
 
 ***
+### Day 49:
+26-08-2018 , 23:55 
+
+**Today's Progress:** S
+
+**Thoughts:** Improving mnist example and trying to finish the color classifier which I layed untouched for a little bit of time.
+
+**Link to work:** [ Improving Mnist to make prediction ](https://github.com/fernand0aguilar/mind-the-gap/commit/1e2b36bfdb2a766b1c2e6701f3187dde7c000fdf)
+
+
+***
