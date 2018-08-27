@@ -529,3 +529,14 @@ July 9, 2018
 
 
 ***
+### Day 48:
+25-08-2018 , 23:58 
+
+**Today's Progress:** Nothing done. Oh
+
+**Thoughts:** slack sleep repeat? no, study study study
+
+**Link to work:** [The international 8](twitch.tv/dota2ti)
+
+
+***
