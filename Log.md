@@ -551,3 +551,14 @@ July 9, 2018
 
 
 ***
+### Day 50:
+27-08-2018 , 21:32 
+
+**Today's Progress:** Studied Linear Algebra
+
+**Thoughts:** I decided to follow a 3month curriculum and instead of finishing it i will try to finish it 3 to 6 times faster. Taking all the courses as hyperproductive as I can and downloading as much information to my brain as I can. These structures are great for learning and it's all about focus. 
+
+**Link to work:** [The Matrix Calculus You Need For Deep Learning](http://explained.ai/matrix-calculus/index.html)
+
+
+***
