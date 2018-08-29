@@ -562,3 +562,14 @@ July 9, 2018
 
 
 ***
+### Day 51:
+28-08-2018 , 21:17 
+
+**Today's Progress:** Working on Linear Algebra basics
+
+**Thoughts:** The truth is that I'm not learning much these days. But at least i'm downloading some valuable information relating to linear algebra which would be useful when trying to figure out hyperparameters later. Today is the 50 day of this challenge and I'm very proud of myself to accomplish so much in 1 and a half month. A month ago I had no idea what machinea learning was really. Artificial Intelligence is a powerful beyound-measure topic, and learning is the best shot I got to achieve freedom and move to another country which is something that I know will be an adventure for my soul. I am beginning to wake up 5am every weekday and this gives me so much time to focus on learning that in 6 months doing this I will be in a completelly new position mentally, financially and spiritually. I can commit to this only because my parents are supporting me, and this gives me space to dedicate 100% on becoming the greatest version of myself. I appreciate all that I got and yeah, dear diary, thank you.
+
+**Link to work:** [The gradient of neuron activation](http://explained.ai/matrix-calculus/index.html)
+
+
+***
