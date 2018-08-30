@@ -584,3 +584,14 @@ July 9, 2018
 
 
 ***
+### Day 53:
+30-08-2018 , 18:08 
+
+**Today's Progress:** Linear Algebra and ML5
+
+**Thoughts:** Today I watched 4 videos on the 3blue1brow series on liear algebra and I'm very happy to fishish reading the paper on 'the matrix calculus you need for deep learning'. It was a fun and yet challenging paper to read but I am moving forwards and this is what matters in the end.
+
+**Link to work:** [Essence of Liear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+
+***
