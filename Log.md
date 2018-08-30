@@ -573,3 +573,14 @@ July 9, 2018
 
 
 ***
+### Day 52:
+29-08-2018 , 21:42 
+
+**Today's Progress:** Created first image classifier example using ML5
+
+**Thoughts:** Today I made the MobileNet image classifier using the pre-trained model from ml5.js
+
+**Link to work:** [Repository to make examples using the ML5 library](https://github.com/fernand0aguilar/ml5-projects)
+
+
+***
