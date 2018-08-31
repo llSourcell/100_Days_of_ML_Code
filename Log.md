@@ -595,3 +595,14 @@ July 9, 2018
 
 
 ***
+### Day 54:
+31-08-2018 , 19:31 
+
+**Today's Progress:** Very happy day. Skype call w/ Beril && lunch w/ cybelle
+
+**Thoughts:** I am almost finishing the Series on Essence to linear algebra. Today I watched a few more videos, had the interview to learn more about the flower reality project and also had lunch with my new girl friend. Days like today feels like glory days. And I am very grateful for them. I will keep pushing forwards to learn more about machine learning and keep the momentum going. Other than that, thanks.
+
+**Link to work:** [Augmented reality in an ionic angular app](https://www.joshmorony.com/augmented-reality-in-an-ionic-angular-pwa/)
+
+
+***
