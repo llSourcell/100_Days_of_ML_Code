@@ -606,3 +606,14 @@ July 9, 2018
 
 
 ***
+### Day 55:
+01-09-2018 , 22:02 
+
+**Today's Progress:** Making a feature extractor classification in ml5
+
+**Thoughts:** Today I learned that machine learning is all about the essence of the picture/data not about the data itself. It's a reflection. And as are us. We are actually one, and everything outside is also part of ourselves. This is intresting to think about.
+
+**Link to work:** [ml5.js: Feature Extractor Classification](https://github.com/fernand0aguilar/ml5-projects)
+
+
+***
