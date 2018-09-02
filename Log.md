@@ -617,3 +617,14 @@ July 9, 2018
 
 
 ***
+### Day 56:
+02-09-2018 , 05:38 
+
+**Today's Progress:** Finished 3blue1Brown series on linear algebra
+
+**Thoughts:** Also programmed the transfer learning feature extractor using ml5.js and learned more about virtual reality, augmented reality, etc. I have a new project to work on and this is exciting. I will not let other people prevent me from get in alingment and I will finish this progress as a way to explore my creativity and learn a bunch of new cool stuff.
+
+**Link to work:** [ml5.js: Feature Extractor Regression](https://www.youtube.com/watch?v=aKgq0m1YjvQ&index=6&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+
+
+***
