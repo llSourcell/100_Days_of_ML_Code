@@ -628,3 +628,14 @@ July 9, 2018
 
 
 ***
+### Day 57:
+03-09-2018 , 20:58 
+
+**Today's Progress:** Learned more about general stuff. Acquired wisdom.
+
+**Thoughts:** Today I started the development of a new project called flowers mixed-reality and it is going to be a fun project to work on. It is aiming to solve a real-world project which is something that I have been exciting to do and it is also a very beautiful and creative project realiting artificial intelligence, machine learning, virtual reality and augmented reality. These are all the hot topics right now and I am grateful to be able to have this opportunity to mix them to create something.
+
+**Link to work:** [Prototype system for a flower factory.](https://github.com/fernand0aguilar/flowers-vr)
+
+
+***
