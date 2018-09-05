@@ -639,3 +639,14 @@ July 9, 2018
 
 
 ***
+### Day 58:
+04-09-2018 , 21:38 
+
+**Today's Progress:** Well, to be true I studied nothing at all
+
+**Thoughts:** I don't know why but studying is getting harder this week. But I will keep improving myself. I actually worked on the vr project and this involves a little bit of machine learning understanding. Other than that, let's go for tomorrow
+
+**Link to work:** [Flowers Mixed Reality](https://github.com/fernand0aguilar/flowers-vr)
+
+
+***
