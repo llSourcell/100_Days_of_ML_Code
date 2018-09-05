@@ -650,3 +650,14 @@ July 9, 2018
 
 
 ***
+### Day 59:
+05-09-2018 , 20:26 
+
+**Today's Progress:** woah, we are one and we aren't giving up.
+
+**Thoughts:** Hello dear diary, i am struggling with the challenge and today has been the decision day where I was about to quit. But I won't. I will finish this mothafucking study to become greater than I currently am. Thanks. Peace
+
+**Link to work:** [Day 59](https://github.com/fernand0aguilar/100_Days_of_ML_Code)
+
+
+***
