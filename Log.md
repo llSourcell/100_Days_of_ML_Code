@@ -661,3 +661,14 @@ July 9, 2018
 
 
 ***
+### Day 60:
+06-09-2018 , 20:28 
+
+**Today's Progress:** Heyo. Today I make 2 months learning ML.
+
+**Thoughts:** HURRAY! I walked a long way. From zero knowledge I am now developing my own freelance application involving machine learning, virtual reality, cloud computing, and all the other buzzwords you might have in mind. For meis is very inspiring. And I look forwards for keep growing as a programmer but not only that, keep growing as a creative individual which is carving his own life purpose.
+
+**Link to work:** [Flowers Vr](https://fernand0aguilar.github.io/flowers-vr/A-Frame-Demo/)
+
+
+***
