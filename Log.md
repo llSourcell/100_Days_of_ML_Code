@@ -672,3 +672,14 @@ July 9, 2018
 
 
 ***
+### Day 61:
+07-09-2018 , 22:39 
+
+**Today's Progress:** Working on flowers-vr project
+
+**Thoughts:** Learned more about algorithms and artificial intelligence as I watched the Elon Musk's interview on the JOE Roegans Podcast. I am starting to understand that humans are the biological precursors of AI. Nadegas a declarar
+
+**Link to work:** [Flowers Mixed Reality](https://github.com/fernand0aguilar/flowers-vr)
+
+
+***
