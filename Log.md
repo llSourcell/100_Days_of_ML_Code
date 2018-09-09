@@ -683,3 +683,14 @@ July 9, 2018
 
 
 ***
+### Day 62:
+08-09-2018 , 23:43 
+
+**Today's Progress:** What is Consciousness?
+**Thoughts:** Studying deeper philosophy, psychology, life lessons and development via contemplation and technical concepts. Going in depth on what it means to figure out life and become self-actualized. Like whaat?
+
+**Link to work:** [80,888](https://www.youtube.com/watch?v=Dw44V15xgPo)
+
+
+***
+
