@@ -694,7 +694,7 @@ July 9, 2018
 
 ***
 
-### Day 62:
+### Day 63:
 09-09-2018 , 21:50 
 
 **Today's Progress:** Beginning the course Learn Python for Data Science
@@ -702,6 +702,17 @@ July 9, 2018
 **Thoughts:** Today I started the learning on python for data scientist because this is a field where anyone can learn and yet it's a very important field of science. It relates all that has data and thus, the whole.
 
 **Link to work:** [Twitter Sentiment Analysis - Learn Python for Data Science #2](https://youtu.be/o_OZdbCzHUA?list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+
+
+***
+### Day 64:
+10-09-2018 , 19:07 
+
+**Today's Progress:** Starting move 37 course - theschool.ai
+
+**Thoughts:** Move 37 is a new course on Rein. This is composed on a set of states and the model takes an action based on the best outcome reward. This new course has several chapters and it's explaining in depth what is reinforcement learning. Altought I think this is quite advanced, I'm excited to follow this trough
+
+**Link to work:** [Move 37 Course](https://www.theschool.ai/courses/move-37-course)
 
 
 ***
