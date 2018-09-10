@@ -694,3 +694,14 @@ July 9, 2018
 
 ***
 
+### Day 62:
+09-09-2018 , 21:50 
+
+**Today's Progress:** Beginning the course Learn Python for Data Science
+
+**Thoughts:** Today I started the learning on python for data scientist because this is a field where anyone can learn and yet it's a very important field of science. It relates all that has data and thus, the whole.
+
+**Link to work:** [Twitter Sentiment Analysis - Learn Python for Data Science #2](https://youtu.be/o_OZdbCzHUA?list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+
+
+***
