@@ -716,3 +716,14 @@ July 9, 2018
 
 
 ***
+### Day 65:
+11-09-2018 , 22:29 
+
+**Today's Progress:** Working on flowers-vr
+
+**Thoughts:** Making progress using a-frame, continuing move 37 course and watching full-stack livestream from coding garden.
+
+**Link to work:** [Append Child](https://aframe.io/docs/master/introduction/javascript-events-dom-apis.html#adding-an-entity-with-appendchild)
+
+
+***
