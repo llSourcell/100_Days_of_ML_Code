@@ -727,3 +727,14 @@ July 9, 2018
 
 
 ***
+### Day 66:
+12-09-2018 , 22:35 
+
+**Today's Progress:** First commit on modsiw repo
+
+**Thoughts:** This will be a repo for uploading data science code using python.
+
+**Link to work:** [Wisdom](https://github.com/fernand0aguilar/modsiw)
+
+
+***
