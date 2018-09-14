@@ -738,3 +738,14 @@ July 9, 2018
 
 
 ***
+### Day 67:
+14-09-2018 , 18:27 
+
+**Today's Progress:** Nao quero estudar hj nao
+
+**Thoughts:** Obrigado.
+
+**Link to work:** [black ops 4 is ***](https://www.twitch.tv/)
+
+
+***
