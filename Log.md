@@ -760,3 +760,14 @@ July 9, 2018
 
 
 ***
+### Day 69:
+17-09-2018 , 15:35 
+
+**Today's Progress:** Reading move 37 article and doing quizz
+
+**Thoughts:** Move 37 is a fun course that I'm taking and for the next month i will be focused on doing my best on learning ml as well as full stack development
+
+**Link to work:** [The School.Ai](https://www.theschool.ai/courses/move-37-course/)
+
+
+***
