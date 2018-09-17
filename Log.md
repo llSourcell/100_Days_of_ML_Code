@@ -749,3 +749,14 @@ July 9, 2018
 
 
 ***
+### Day 68:
+16-09-2018 , 21:00 
+
+**Today's Progress:** moving
+
+**Thoughts:** Making progress by moving to a new apartment
+
+**Link to work:** [get](glow)
+
+
+***
