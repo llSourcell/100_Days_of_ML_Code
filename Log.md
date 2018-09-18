@@ -771,3 +771,14 @@ July 9, 2018
 
 
 ***
+### Day 70:
+18-09-2018 , 13:36 
+
+**Today's Progress:** Learning Python for Data Science
+
+**Thoughts:** Making projects like deep dream with tensorflow, Stock prices prediction and movie recommendation system.
+
+**Link to work:** [LPFDS](https://github.com/fernand0aguilar/modsiw/tree/master/LPFDS)
+
+
+***
