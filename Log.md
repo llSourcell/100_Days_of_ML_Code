@@ -782,3 +782,14 @@ July 9, 2018
 
 
 ***
+### Day 71:
+19-09-2018 , 23:31 
+
+**Today's Progress:** Finishing LPFDS and starting intro to tensorflow
+
+**Thoughts:** Getting a plan going, doing tasks on todoist and helping parents on their bakery.
+
+**Link to work:** [Intro to Tensorflow](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+
+
+***
