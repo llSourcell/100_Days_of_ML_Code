@@ -793,3 +793,14 @@ July 9, 2018
 
 
 ***
+### Day 72:
+20-09-2018 , 20:42 
+
+**Today's Progress:** Learning more about tensorflow py
+
+**Thoughts:** Watching some siraj videos and updating fraguilar frontend
+
+**Link to work:** [Bug](fraguilar.com)
+
+
+***
