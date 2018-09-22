@@ -804,3 +804,14 @@ July 9, 2018
 
 
 ***
+### Day 73:
+21-09-2018 , 22:16 
+
+**Today's Progress:** Learning more about tensorflow.js
+
+**Thoughts:** Watched a very simple implementation on tensorflow deeplearning on the web. to be honest i am not learning much these days. I stagnated a little bit but at least I didn't quit. I'm trying different things and this is what makes me grow.
+
+**Link to work:** [Tensorflow.js Explained](https://www.youtube.com/watch?v=Nc8kZABv-KE&index=8&list=WL&t=0s)
+
+
+***
