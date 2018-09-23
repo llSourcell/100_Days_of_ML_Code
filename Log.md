@@ -815,3 +815,14 @@ July 9, 2018
 
 
 ***
+### Day 74:
+22-09-2018 , 22:55 
+
+**Today's Progress:** Studying week 02 on Reinforcement Learning Course
+
+**Thoughts:** Learning about markov decision process and non-perfect environments. Doing some tought process on reinforcement learning and bellman equation.
+
+**Link to work:** [Bellman Advanced](https://youtu.be/FsOmL4sQJxo)
+
+
+***
