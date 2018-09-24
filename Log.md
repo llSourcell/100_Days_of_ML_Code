@@ -826,3 +826,14 @@ July 9, 2018
 
 
 ***
+### Day 75:
+23-09-2018 , 22:43 
+
+**Today's Progress:** Chilling sunday
+
+**Thoughts:** Added code for dynamic programming example.
+
+**Link to work:** [modsiw@14a025b](https://github.com/fernand0aguilar/modsiw/commit/14a025beb2e87d71b328ede4f1027d0b8d345fd8)
+
+
+***
