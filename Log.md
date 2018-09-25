@@ -837,3 +837,14 @@ July 9, 2018
 
 
 ***
+### Day 76:
+24-09-2018 , 22:46 
+
+**Today's Progress:** Session 01: Machine Learning for Musicians
+
+**Thoughts:** Kadence Course with great teachings and beautiful teacher on machine learning for creative people
+
+**Link to work:** [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/)
+
+
+***
