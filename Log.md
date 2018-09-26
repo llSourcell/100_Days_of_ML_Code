@@ -848,3 +848,14 @@ July 9, 2018
 
 
 ***
+### Day 77:
+25-09-2018 , 22:15 
+
+**Today's Progress:** Progress on Move 37 course
+
+**Thoughts:** Studying about dynamic programming and the challenges of solving problems efectively using divide and conquer methods.
+
+**Link to work:** [Dynamic Programming](https://www.youtube.com/watch?v=DiAtV7SneRE)
+
+
+***
