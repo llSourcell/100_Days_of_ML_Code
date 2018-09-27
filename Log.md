@@ -870,3 +870,14 @@ July 9, 2018
 
 
 ***
+### Day 79:
+27-09-2018 , 11:58 
+
+**Today's Progress:** Finished Session 01 on Machine Learning For Artists And Musicians
+
+**Thoughts:** This course seems to be super interesting. I am happy that others are doing fun stuff with software and that I get to stand on the shoulders of them doing amazing tools with an incredible amount of potential.
+
+**Link to work:** [S01 - Add session 1 walktrough files, scripts and assignments](https://github.com/fernand0aguilar/art-code-poetry)
+
+
+***
