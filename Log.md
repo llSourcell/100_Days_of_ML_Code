@@ -859,3 +859,14 @@ July 9, 2018
 
 
 ***
+### Day 78:
+26-09-2018 , 22:37 
+
+**Today's Progress:** Training an LSTM Neural Network
+
+**Thoughts:** Training language model using a LSTM with my own custom dataset and using the result model inside ml5.js being able to sample from it directly from the browser.
+
+**Link to work:** [Training an LSTM network and sampling the resulting model in ml5.js](https://blog.paperspace.com/training-an-lstm-and-using-the-model-in-ml5-js/)
+
+
+***
