@@ -881,3 +881,14 @@ July 9, 2018
 
 
 ***
+### Day 80:
+28-09-2018 , 22:38 
+
+**Today's Progress:** Brainstorming on the ML for artists kadenze course
+
+**Thoughts:** Created a repository for uploading stuff that I make using wekinator
+
+**Link to work:** [Assignment 1](https://github.com/fernand0aguilar/art-code-poetry/tree/master/Machine_Learning/Kadenze_Assignments/assignment1)
+
+
+***
