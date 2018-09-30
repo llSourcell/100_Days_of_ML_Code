@@ -892,3 +892,14 @@ July 9, 2018
 
 
 ***
+### Day 81:
+29-09-2018 , 22:24 
+
+**Today's Progress:** Working on social entepreunership course
+
+**Thoughts:** New coursera course that teaches some ideas. I need to feed and water and set aside some time on the day to make them happen.
+
+**Link to work:** [Coursera learn social entrepreunership opportunities](https://www.coursera.org/learn/social-entrepreneurship-opportunities/home/week/2)
+
+
+***
