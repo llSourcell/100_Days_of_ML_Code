@@ -903,3 +903,14 @@ July 9, 2018
 
 
 ***
+### Day 82:
+30-09-2018 , 23:51 
+
+**Today's Progress:** Studying about classifications
+
+**Thoughts:** Learned what decision trees are and other stuff like Features and Feature selection.
+
+**Link to work:** [Session 2: Classification, Part I](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/sessions/classification-part-i)
+
+
+***
