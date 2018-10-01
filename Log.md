@@ -914,3 +914,14 @@ July 9, 2018
 
 
 ***
+### Day 83:
+01-10-2018 , 19:48 
+
+**Today's Progress:** Pitched flowers project. But really nothing related to ml
+
+**Thoughts:** lazy day
+
+**Link to work:** [-](-)
+
+
+***
