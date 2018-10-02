@@ -925,3 +925,14 @@ July 9, 2018
 
 
 ***
+### Day 84:
+02-10-2018 , 15:01 
+
+**Today's Progress:** Studying machine learning for artist
+
+**Thoughts:** Polynomial regression
+
+**Link to work:** [Kadenze Machine Learning 4 artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
+
+
+***
