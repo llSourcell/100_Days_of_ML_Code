@@ -936,3 +936,14 @@ July 9, 2018
 
 
 ***
+### Day 85:
+03-10-2018 , 15:03 
+
+**Today's Progress:** Learning Monte Carlo Methods
+
+**Thoughts:** Started Move 37 week 3 on monte carlos methods by watching the internet of things optimization video
+
+**Link to work:** [IOT optimization](https://www.theschool.ai/courses/move-37-course/lessons/internet-of-things-optimization/)
+
+
+***
