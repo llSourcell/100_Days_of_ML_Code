@@ -947,3 +947,14 @@ July 9, 2018
 
 
 ***
+### Day 86:
+04-10-2018 , 23:25 
+
+**Today's Progress:** Getting the project up to date
+
+**Thoughts:** Working on updating the past few days and doing some asignments on the move37 course
+
+**Link to work:** [Exploration vs Exploitation](Exploration vs Exploitation)
+
+
+***
