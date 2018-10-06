@@ -958,3 +958,14 @@ July 9, 2018
 
 
 ***
+### Day 87:
+05-10-2018 , 23:08 
+
+**Today's Progress:** Doing some recurrent neural networks revision
+
+**Thoughts:** Studying and learning more about machine learning concepts
+
+**Link to work:** [RNN](RNN )
+
+
+***
