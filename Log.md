@@ -969,3 +969,14 @@ July 9, 2018
 
 
 ***
+### Day 88:
+06-10-2018 , 23:16 
+
+**Today's Progress:** Introduction to neural networks for regression
+
+**Thoughts:** Neuros, inputs, output value, strategies, compute, bias, weight, training, numbers, measurements, equation, etc
+
+**Link to work:** [Regression](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/sessions/regression)
+
+
+***
