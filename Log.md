@@ -980,3 +980,14 @@ July 9, 2018
 
 
 ***
+### Day 89:
+08-10-2018 , 22:02 
+
+**Today's Progress:** Doing progress on Machine Learning for musicians and artists
+
+**Thoughts:** I want to learn hot artistic models for creating art for the sake of art. Not because I want money but because I want to generate value for others first. Machine Learning is an emerging topic with lots of potential and has yet to achieve it's peak in both technology as well as knowledge. Art is something that interests me only so much and mixing both is how I find myself being drawn to.
+
+**Link to work:** [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
+
+
+***
