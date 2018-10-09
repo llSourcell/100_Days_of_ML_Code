@@ -1002,3 +1002,14 @@ July 9, 2018
 
 
 ***
+### Day 91:
+09-10-2018 , 08:19 
+
+**Today's Progress:** Pitching to cyberkids
+
+**Thoughts:** I'm excited to draw a venn diagram between programming, teaching and youtubing where I can teach programming while teaching youtubing and also doing it myself. It will be an excited journey to start on and I am happy to say that It's already here.
+
+**Link to work:** [Quinteto Armorial](https://www.youtube.com/watch?v=jZxKKPG2A7c)
+
+
+***
