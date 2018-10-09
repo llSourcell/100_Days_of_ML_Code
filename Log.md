@@ -991,3 +991,14 @@ July 9, 2018
 
 
 ***
+### Day 90:
+08-10-2018 , 22:43 
+
+**Today's Progress:** Finishing part III, starting part IV
+
+**Thoughts:** Classification, Part II; Design considerations - Finished session 3 and got a very nice idea about making instruments using machine learning. Recording some data inputs and then using a software for syntesizing sound and then using a controller to move inputs and get new outputs based on the training data of the model is somewhat very powerful. I wonder if there is some aplicability right now, but learning that this kind of stuff is posible is a nice way of setting myself up for the future and the current state-of-the-art relating machine learning algorithms
+
+**Link to work:** [Session 4: Classification, Part II; Design considerations](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/sessions/classification-part-ii-design-considerations)
+
+
+***
