@@ -1013,3 +1013,14 @@ July 9, 2018
 
 
 ***
+### Day 92:
+10-10-2018 , 23:39 
+
+**Today's Progress:** signing up for runway.ai and coding some uri problems
+
+**Thoughts:** Learning more about simple stuff and doing things out of the ordinary like kissing and hanging out.
+
+**Link to work:** [code-kata](https://github.com/fernand0aguilar/code-kata)
+
+
+***
