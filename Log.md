@@ -1035,3 +1035,14 @@ July 9, 2018
 
 
 ***
+### Day 94:
+12-10-2018 , 17:07 
+
+**Today's Progress:** Today I will focus on finishing machine learning for artists
+
+**Thoughts:** I will complete the remaining sessions and move along to the final week
+
+**Link to work:** [mia juda @ deus](miajuda@deus)
+
+
+***
