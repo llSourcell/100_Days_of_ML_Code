@@ -1024,3 +1024,14 @@ July 9, 2018
 
 
 ***
+### Day 93:
+11-10-2018 , 22:30 
+
+**Today's Progress:** not in the mood to be honest
+
+**Thoughts:** appreciate a little break. thanks
+
+**Link to work:** [super geeks](supergeeks.com.br)
+
+
+***
