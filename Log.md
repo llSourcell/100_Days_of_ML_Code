@@ -1046,3 +1046,14 @@ July 9, 2018
 
 
 ***
+### Day 95:
+13-10-2018 , 23:46 
+
+**Today's Progress:** Doing progress on Session 04 and 05 of ml for artists and musicians
+
+**Thoughts:** Today I plan to finish this and it's going good. So far so good. Wish me luck
+
+**Link to work:** [Kadenze course session 05](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/sessions/sensors-and-features-generating-useful-inputs-for-machine-learning)
+
+
+***
