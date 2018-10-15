@@ -1057,3 +1057,14 @@ July 9, 2018
 
 
 ***
+### Day 96:
+14-10-2018 , 23:48 
+
+**Today's Progress:** OMG i cannot finish this course it's so bring
+
+**Thoughts:** but hey, i'm doing progress. This is the session 6 already. Working with time.
+
+**Link to work:** [Session 6: Working with time](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/sessions/working-with-time)
+
+
+***
