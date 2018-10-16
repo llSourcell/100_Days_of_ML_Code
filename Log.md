@@ -1068,3 +1068,14 @@ July 9, 2018
 
 
 ***
+### Day 97:
+15-10-2018 , 22:40 
+
+**Today's Progress:** Starting do fidget with instapy bot
+
+**Thoughts:** Nice stuff using selenium. But really and trully i am struggling to finish the course that I've been doing. Well, the courses to be franque. But the one about digital art has only a session more and I hope to watch it all tonight.
+
+**Link to work:** [github](https://github.com/fernand0aguilar)
+
+
+***
