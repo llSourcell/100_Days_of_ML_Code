@@ -1079,3 +1079,14 @@ July 9, 2018
 
 
 ***
+### Day 98:
+16-10-2018 , 21:33 
+
+**Today's Progress:** Understanding Word Vectors
+
+**Thoughts:** Today I finally finished the course on Machine Learning foartists and musicians and I am now going to use my time to understand word2vec and how it works. This is interesting enough for me to spend the next couple of days into it and useful enough for me to create something new out of this knowledge. Today I started watching Dan's livestream, reading a paper about it and also coding some pull requests for the Hacktoberfest open source festival promoted by digital ocean.
+
+**Link to work:** [Understanding word vectors... for, like, actual poets. By Allison Parrish](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
+
+
+***
