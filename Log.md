@@ -1090,3 +1090,14 @@ July 9, 2018
 
 
 ***
+### Day 99:
+17-10-2018 , 23:23 
+
+**Today's Progress:** Doing progress on Word2Vec
+
+**Thoughts:** Also got into kung fu and bought a new wacom table for learning how to sketch. The future is looking good.
+
+**Link to work:** [Live Stream #156: word2vec & Seven-Segment Display](https://www.youtube.com/watch?v=b8RwO1k9DXc)
+
+
+***
