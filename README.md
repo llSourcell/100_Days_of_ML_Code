@@ -1,8 +1,10 @@
+[Log](https://github.com/fernand0aguilar/100_Days_of_ML_Code/blob/master/Log.md)
+
 # 100DaysOfMLCode
 
 ## Overview
 
-These are the instructions for [this](https://www.youtube.com/watch?v=cuQMBj1cWPo&t=7s) video on Youtube by Siraj Raval for the #100DaysofMLCode Challenge. 
+These are the instructions for [this](https://www.youtube.com/watch?v=cuQMBj1cWPo) video on Youtube by Siraj Raval for the #100DaysofMLCode Challenge. 
 
 ## Motivation
 
