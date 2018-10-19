@@ -1101,3 +1101,14 @@ July 9, 2018
 
 
 ***
+### Day 100:
+18-10-2018 , 22:08 
+
+**Today's Progress:** Finished word2vec livestream and planning next steps
+
+**Thoughts:** FINISH HIM! YES!
+
+**Link to work:** [tweet for victory](https://twitter.com/Fernand0Aguilar/status/1053090441451712514)
+
+
+***
